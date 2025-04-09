@@ -1,0 +1,14 @@
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\Application.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\controller\PersonaController.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\dto\PersonaRequest.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\dto\PersonaResponse.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\model\Persona.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\model\TipoDocumento.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\model\Ubigeo.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\repository\PersonaRepository.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\repository\TipoDocumentoRepository.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\repository\UbigeoRepository.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\service\PersonaService.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\service\TipoDocumentoService.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\service\UbigeoService.java
+D:\CURSO\2025-1\DESARROLLO DE APLICACIONES WEB\SEMANA 3\PROYECTO\src\main\java\dsw\sigconbackend\utils\ErrorResponse.java
