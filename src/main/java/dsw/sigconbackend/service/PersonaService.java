@@ -9,6 +9,7 @@ import dsw.sigconbackend.repository.PersonaRepository;
 import dsw.sigconbackend.repository.TipoDocumentoRepository;
 import dsw.sigconbackend.repository.UbigeoRepository;
 import java.util.List;
+import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -87,6 +88,10 @@ public class PersonaService {
     }
 
     public PersonaResponse findPersona(Long id) {
-        return PersonaResponse.fromEntity(personaRepository.findById(id).get());
+        Optional<Persona> result = personaRepository.findById(id);
+        if (!result.isPresent()) {
+            return null;
+        }
+        return PersonaResponse.fromEntity(result.get());
     }
 }
